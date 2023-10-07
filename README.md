@@ -1,3 +1,3 @@
-# Timeline Slider Concept (fully responsive)
+# Timeline Slider Concept 
 
 ![Alt text](ScreenShot/S1.png)
